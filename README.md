@@ -16,13 +16,16 @@ Features:
   - Convert DateTime to proper format
   - Extract new features (Year, Month, Day, Hour, etc.)
   - Handle missing values
+
 2.Exploratory Data Analysis (EDA)
   - Visualize traffic patterns over time
   - Analyze peak hours and weekdays vs. weekends
+
 3.Machine Learning Model
   - Selected Random Forest Regressor for traffic volume prediction
   - Split data into training and testing sets
   - Standardized numerical features for better model performance
+
 4.Evaluation Metrics
   - Mean Absolute Error (MAE)
   - Mean Squared Error (MSE)
