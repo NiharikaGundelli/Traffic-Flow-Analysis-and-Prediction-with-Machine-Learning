@@ -5,11 +5,17 @@
 This project analyzes and predicts traffic congestion patterns using machine learning. The dataset consists of traffic volume data collected from different junctions over time. The project involves data preprocessing, exploratory data analysis (EDA), and predictive modeling to estimate traffic volume based on various features.
 
 📂 Dataset
+
 Source: Kaggle / UCI Machine Learning Repository
+
 Features:
+
     DateTime: Timestamp of the recorded traffic data
+    
     Junction: ID of the traffic junction
+    
     Vehicles: Number of vehicles at a given timestamp
+    
     Extracted Features: Year, Month, Day, Hour, DayOfWeek, Weekend
     
 🔍 Project Workflow
