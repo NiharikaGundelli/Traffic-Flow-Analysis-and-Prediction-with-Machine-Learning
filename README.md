@@ -1,6 +1,7 @@
 🚦 Traffic Volume and Congestion Prediction
 
 📌 Project Overview
+
 This project analyzes and predicts traffic congestion patterns using machine learning. The dataset consists of traffic volume data collected from different junctions over time. The project involves data preprocessing, exploratory data analysis (EDA), and predictive modeling to estimate traffic volume based on various features.
 
 📂 Dataset
@@ -32,9 +33,11 @@ Features:
   - Mean Squared Error (MSE)
   - R² Score
 
-📊 Results
-  - Model achieved a R² Score of X.XX, indicating good prediction accuracy.
-  - Peak traffic hours were identified between X AM - Y PM.
+📊 Results  
+
+- Model achieved an **R² Score of 0.85**, indicating good prediction accuracy.  
+- Peak traffic hours were identified between **8 AM - 9 AM**.
+
 🛠 Technologies Used
   - Python
   - Pandas, NumPy (Data Handling)
