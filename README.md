@@ -6,7 +6,7 @@ This project analyzes and predicts traffic congestion patterns using machine lea
 
 📂 Dataset
 
-Source: Kaggle / UCI Machine Learning Repository
+Source: Kaggle
 
 Features:
 
