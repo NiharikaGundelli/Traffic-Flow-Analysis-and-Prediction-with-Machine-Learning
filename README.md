@@ -12,6 +12,7 @@ Features:
     Extracted Features: Year, Month, Day, Hour, DayOfWeek, Weekend
     
 🔍 Project Workflow
+
 1.Data Preprocessing
   - Convert DateTime to proper format
   - Extract new features (Year, Month, Day, Hour, etc.)
